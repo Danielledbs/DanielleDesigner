@@ -393,6 +393,9 @@ border-top-left-radius: 40px;
     height: 30x;
   }
 
+   #contatos a{
+        text-decoration: none;
+   }
 
   #contatos {
     font-family: Helvetica;
@@ -489,18 +492,6 @@ h1 {
   font-family: Helvetica;
   font-weight: bolder;
 }
-
-.titulo{
-  font-size: xx-large;
-  font-weight: bold;
-  min-height: 80px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  font-family: Helvetica;
-}
-
 
 .form {
   width: 100%;

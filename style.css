@@ -280,6 +280,10 @@ border-top-left-radius: 40px;
 
  @media(max-width: 574px) {
 
+   #fone{
+     text-decoration: none;
+   }
+
   .titulo{
   font-size: 20px;
   font-weight: bold;

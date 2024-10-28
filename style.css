@@ -513,6 +513,10 @@ h1 {
   margin-bottom: 0.5rem;
 }
 
+   a{
+ text-decoration: none;
+   }
+
 .form input,
 .form textarea {
   font: inherit;

@@ -280,6 +280,16 @@ border-top-left-radius: 40px;
 
  @media(max-width: 574px) {
 
+  .titulo{
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: Helvetica;
+  }
+
   #apresenta{
     margin-left: 10%;
     margin-right: 10%;

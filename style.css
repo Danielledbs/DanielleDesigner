@@ -285,9 +285,8 @@ border-top-left-radius: 40px;
    }
 
   .titulo{
-  font-size: 35px;
-  font-weight: bold;
-  min-height: 80px;
+  font-size: 50px;
+  font-weight: bolder;
   display: flex;
   align-items: center;
   justify-content: center;

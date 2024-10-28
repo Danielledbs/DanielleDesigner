@@ -280,7 +280,7 @@ border-top-left-radius: 40px;
 
  @media(max-width: 574px) {
 
-   #fone{
+   #fone a{
      text-decoration: none;
    }
 

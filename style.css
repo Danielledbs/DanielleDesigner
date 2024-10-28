@@ -3,6 +3,25 @@
   height: 130px;
 }
 
+#contatos a{
+  decoration: none;
+}
+
+
+   #fone a{
+     text-decoration: none;
+     color: white;
+   }
+
+ a{
+
+     text-decoration: none;
+     color: white;
+
+}
+
+
+
 #topnavpc{
 
   text-align: right;
